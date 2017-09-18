@@ -1,0 +1,13 @@
+$purpleColor:#666;
+$white:#fff;
+$none:none;
+h2{
+  color:$purpleColor;
+}
+button{
+  border:$none;
+  background: $purpleColor;
+  color:$white;
+  padding:10px 20px;
+  border-radius: 5px;
+}
